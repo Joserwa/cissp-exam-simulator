@@ -7,6 +7,7 @@ A fully self-contained, offline CISSP practice exam simulator built as a single 
 ![Questions](https://img.shields.io/badge/Questions-859-orange?style=flat-square)
 ![Format](https://img.shields.io/badge/Format-Self--Contained%20HTML-lightgrey?style=flat-square)
 
+**Can be accessed here also:** [CISSP Exam Simulator](https://joserwa.github.io/cissp-exam-simulator/CISSP_Exam_Simulator.html)
 ---
 
 ## 📋 Overview
