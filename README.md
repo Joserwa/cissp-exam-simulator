@@ -47,10 +47,7 @@ Each exam session draws a **fresh random weighted sample** — so every attempt 
 ## 🚀 How to Use
 
 ### Option 1 — Use directly from GitHub Pages (online)
-If GitHub Pages is enabled on this repository:
-1. Go to the repository **Settings → Pages**
-2. Set source to `main` branch, root folder
-3. Visit `https://<your-username>.github.io/<repo-name>/CISSP_Exam_Simulator.html`
+Visit [CISSP Exam Simulator](https://joserwa.github.io/cissp-exam-simulator/CISSP_Exam_Simulator.html)
 
 ### Option 2 — Download and run locally (fully offline)
 1. Click the green **`<> Code`** button on this repository
